@@ -1,4 +1,5 @@
-## Data Preparation and Cleaning for Hospital Readmissions Analysis
+## Data Cleaning Project (D206)
+### Data Preparation and Cleaning for Hospital Readmissions Analysis
 - Explored data, it's shape, index, data types, column counts, memory usage
 - Deleted missing data and inspected rows/columns with NaNs
 - Filled missing values w/Mean values
