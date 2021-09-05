@@ -9,12 +9,14 @@
 - Extracted PCA's to keep, displayed heat map and exported cleaned data.
 
 
-### Scree Plot: 
+Scree Plot:
+
+
 ![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/PCA_ScreePlot.png "Scree Plot")
 
 
 
-### Heat Map: 
+Heat Map: 
 ![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/HeatMap.png "Heat Map")
 
 
